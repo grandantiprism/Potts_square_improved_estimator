@@ -107,7 +107,7 @@ int main() {
     Config conf;
     int total_sites = conf.L * conf.L;
 
-    string res_filename = "potts_q" + to_string(conf.q) + "_L" + to_string(conf.L) + ".csv";
+    string res_filename = "potts_square_q" + to_string(conf.q) + "_L" + to_string(conf.L) + ".csv";
     string log_filename = "sim_log.txt";
     
     ofstream ofs_res(res_filename);
