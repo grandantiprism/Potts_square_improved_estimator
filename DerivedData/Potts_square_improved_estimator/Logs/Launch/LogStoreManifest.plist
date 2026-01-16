@@ -6,6 +6,67 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>01BB95A8-55D9-41E9-8A73-360C8A1188F7</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E7117F24-B367-4AA6-AA95-0C9560999280</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Potts_square_improved_estimator-2026.01.17_01-08-48-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_square_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_square_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Potts_square_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790272528.49364805</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Potts_square_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>01BB95A8-55D9-41E9-8A73-360C8A1188F7</string>
+		</dict>
 		<key>175A69BC-E549-4575-AD65-BA49D96CB976</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -67,6 +128,189 @@
 			<key>uniqueIdentifier</key>
 			<string>175A69BC-E549-4575-AD65-BA49D96CB976</string>
 		</dict>
+		<key>27521CE7-8F18-40C4-90BD-10A86EE70965</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>13FFFE06-6624-44CD-87F9-630C6C94748D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Potts_square_improved_estimator-2026.01.17_01-52-39-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_square_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_square_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Potts_square_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790275159.03048694</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Potts_square_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>27521CE7-8F18-40C4-90BD-10A86EE70965</string>
+		</dict>
+		<key>5056884D-61C3-4090-90C0-300267DAC7C8</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E9F61C35-6E1A-49EF-ADBD-8DBF147652A8</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Potts_square_improved_estimator-2026.01.16_16-59-35-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_square_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_square_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Potts_square_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790243175.54510999</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Potts_square_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>5056884D-61C3-4090-90C0-300267DAC7C8</string>
+		</dict>
+		<key>8E6423FB-2040-496F-AE01-721A5A57EAA7</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>29533B0E-3C79-4811-A997-25AAB08FE15C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Potts_square_improved_estimator-2026.01.17_02-05-27-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_square_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_square_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Potts_square_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790275927.40272701</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Potts_square_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>8E6423FB-2040-496F-AE01-721A5A57EAA7</string>
+		</dict>
 		<key>93973E52-AB6A-46BB-B27A-16B5007A1072</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -127,6 +371,128 @@
 			<string>Run Potts_square_improved_estimator</string>
 			<key>uniqueIdentifier</key>
 			<string>93973E52-AB6A-46BB-B27A-16B5007A1072</string>
+		</dict>
+		<key>D0770918-DF87-4097-8CDB-8D0F0E56D543</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>FCAEA9D0-A386-4EAC-A856-48367A74E3C6</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Potts_square_improved_estimator-2026.01.17_02-11-12-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_square_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_square_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Potts_square_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790276272.42719305</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Potts_square_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>D0770918-DF87-4097-8CDB-8D0F0E56D543</string>
+		</dict>
+		<key>E5243C19-E343-42A6-86E7-53EF0B6991A5</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>72176107-14F9-4C09-B5FE-D5116D69339F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Potts_square_improved_estimator-2026.01.17_02-09-38-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_square_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_square_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Potts_square_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790276178.34549403</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Potts_square_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>E5243C19-E343-42A6-86E7-53EF0B6991A5</string>
 		</dict>
 	</dict>
 </dict>

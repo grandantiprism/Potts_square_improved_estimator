@@ -48,6 +48,132 @@
 			<key>uniqueIdentifier</key>
 			<string>0D6495DF-EB26-4960-A7E9-7A5F0F03E232</string>
 		</dict>
+		<key>13FFFE06-6624-44CD-87F9-630C6C94748D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>13FFFE06-6624-44CD-87F9-630C6C94748D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_square_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_square_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_square_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790275159.03061402</real>
+			<key>timeStoppedRecording</key>
+			<real>790275160.21385503</real>
+			<key>title</key>
+			<string>Build Potts_square_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>13FFFE06-6624-44CD-87F9-630C6C94748D</string>
+		</dict>
+		<key>29533B0E-3C79-4811-A997-25AAB08FE15C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>29533B0E-3C79-4811-A997-25AAB08FE15C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_square_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_square_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_square_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790275927.40283799</real>
+			<key>timeStoppedRecording</key>
+			<real>790275928.469311</real>
+			<key>title</key>
+			<string>Build Potts_square_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>29533B0E-3C79-4811-A997-25AAB08FE15C</string>
+		</dict>
+		<key>72176107-14F9-4C09-B5FE-D5116D69339F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>72176107-14F9-4C09-B5FE-D5116D69339F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_square_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_square_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_square_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790276178.34562004</real>
+			<key>timeStoppedRecording</key>
+			<real>790276179.32583594</real>
+			<key>title</key>
+			<string>Build Potts_square_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>72176107-14F9-4C09-B5FE-D5116D69339F</string>
+		</dict>
 		<key>869E40D9-9F05-4112-8B55-ADEF9ED4C037</key>
 		<dict>
 			<key>className</key>
@@ -90,6 +216,48 @@
 			<key>uniqueIdentifier</key>
 			<string>869E40D9-9F05-4112-8B55-ADEF9ED4C037</string>
 		</dict>
+		<key>E7117F24-B367-4AA6-AA95-0C9560999280</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E7117F24-B367-4AA6-AA95-0C9560999280.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_square_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_square_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_square_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790272528.49375296</real>
+			<key>timeStoppedRecording</key>
+			<real>790272529.65956903</real>
+			<key>title</key>
+			<string>Build Potts_square_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>E7117F24-B367-4AA6-AA95-0C9560999280</string>
+		</dict>
 		<key>E9F61C35-6E1A-49EF-ADBD-8DBF147652A8</key>
 		<dict>
 			<key>className</key>
@@ -131,6 +299,48 @@
 			<string>Build Potts_square_improved_estimator</string>
 			<key>uniqueIdentifier</key>
 			<string>E9F61C35-6E1A-49EF-ADBD-8DBF147652A8</string>
+		</dict>
+		<key>FCAEA9D0-A386-4EAC-A856-48367A74E3C6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FCAEA9D0-A386-4EAC-A856-48367A74E3C6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_square_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_square_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_square_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790276272.42731798</real>
+			<key>timeStoppedRecording</key>
+			<real>790276273.29674304</real>
+			<key>title</key>
+			<string>Build Potts_square_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>FCAEA9D0-A386-4EAC-A856-48367A74E3C6</string>
 		</dict>
 	</dict>
 </dict>

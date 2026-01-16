@@ -15,7 +15,7 @@ using namespace std;
 // シミュレーションパラメータの設定
 // ==========================================
 struct Config {
-    const int L = 128;               // 格子の一辺の長さ
+    const int L = 64;               // 格子の一辺の長さ
     const int q = 4;                // Potts状態数 (q=3)
     
     const double beta_min = 1.095;
