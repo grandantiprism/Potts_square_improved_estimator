@@ -5,6 +5,91 @@
 	<key>logFormatVersion</key>
 	<integer>11</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>0D6495DF-EB26-4960-A7E9-7A5F0F03E232</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0D6495DF-EB26-4960-A7E9-7A5F0F03E232.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_square_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_square_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_square_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790243066.41619599</real>
+			<key>timeStoppedRecording</key>
+			<real>790243071.00209105</real>
+			<key>title</key>
+			<string>Build Potts_square_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>0D6495DF-EB26-4960-A7E9-7A5F0F03E232</string>
+		</dict>
+		<key>869E40D9-9F05-4112-8B55-ADEF9ED4C037</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>869E40D9-9F05-4112-8B55-ADEF9ED4C037.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_square_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_square_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_square_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790242914.23131001</real>
+			<key>timeStoppedRecording</key>
+			<real>790242917.00341105</real>
+			<key>title</key>
+			<string>Build Potts_square_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>869E40D9-9F05-4112-8B55-ADEF9ED4C037</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

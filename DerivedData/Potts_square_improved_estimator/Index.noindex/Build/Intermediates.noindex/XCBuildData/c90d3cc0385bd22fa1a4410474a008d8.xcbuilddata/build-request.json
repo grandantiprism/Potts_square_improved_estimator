@@ -1,0 +1,48 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "7d45ffb30f55ffa2c6cfd6f1afdf8e4092ce82a152fb43c015400e08901de496"
+    }
+  ],
+  "containerPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_improved_estimator/Potts_square_improved_estimator.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_improved_estimator/DerivedData/Potts_square_improved_estimator/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_improved_estimator/DerivedData/Potts_square_improved_estimator/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_improved_estimator/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_improved_estimator/DerivedData/Potts_square_improved_estimator/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_improved_estimator/DerivedData/Potts_square_improved_estimator/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_improved_estimator/DerivedData/Potts_square_improved_estimator/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_improved_estimator/DerivedData/Potts_square_improved_estimator/Build/Products",
+      "pchPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_improved_estimator/DerivedData/Potts_square_improved_estimator/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
